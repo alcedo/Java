@@ -1,7 +1,7 @@
 package solidprinciples;
 
 import solidprinciples.PaymentDetails.PaymentMethod;
- //TODO :Order should be comatible with order principles
+ //TODO :Order should be compatible with order principles
 //Order class have lot of responsibility so it is violating single responsibility and expose of all variables and we cant make interface with 4 funcitons
 public class Order {
 
